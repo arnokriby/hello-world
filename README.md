@@ -1,2 +1,4 @@
 # hello-world
-I am code now
+I. Am. Code.
+Hopefully this helps.
+\m/
